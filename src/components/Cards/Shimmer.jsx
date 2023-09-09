@@ -6,7 +6,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -15,7 +15,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -24,7 +24,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -33,7 +33,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -42,7 +42,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -51,7 +51,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -60,7 +60,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -69,7 +69,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -78,7 +78,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -87,7 +87,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -96,7 +96,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -105,7 +105,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -114,7 +114,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -123,7 +123,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>
@@ -132,7 +132,7 @@ export default Shimmer = () => {
       <div class="border border-slate-200 shadow rounded-md p-4 w-72 mb-6">
         <div class="animate-pulse flex space-x-3">
           <div class="flex-1 space-y-6 py-1">
-            <div class="h-2 bg-slate-200 rounded h-40"></div>
+            <div class="bg-slate-200 rounded h-40"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
             <div class="h-2 bg-slate-200 rounded"></div>
           </div>

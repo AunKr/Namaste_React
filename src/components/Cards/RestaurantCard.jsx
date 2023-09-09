@@ -1,8 +1,11 @@
-import React from "react";
+import React, { useEffect } from "react";
+import { useNavigate } from "react-router-dom";
+
 import { StarIcon } from "../../assets/images/index";
-import { CDN_URL } from "../../utils/constants";
+import { CDN_URL, FETCH_MENU_URL } from "../../utils/constants";
 
 export default RestaurantCard = (props) => {
+  const navigate = useNavigate();
   const {
     cloudinaryImageId,
     id,
@@ -12,8 +15,12 @@ export default RestaurantCard = (props) => {
     slaString,
     costForTwoString,
   } = props.cardData;
+
   return (
-    <div class="w-72 hover:border hover:shadow-xl pt-5 px-5 pb-4 group/item hover:cursor-pointer">
+    <div
+      class="w-72 hover:border hover:shadow-xl pt-5 px-5 pb-4 group/item hover:cursor-pointer"
+      onClick={(e) => navigate(`/restaurant/${id}`)}
+    >
       <div class="">
         <div class="w-full">
           <img src={`${CDN_URL}/${cloudinaryImageId}`} />

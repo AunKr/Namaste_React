@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import Header from "../components/Header/Header";
 import RestaurantCard from "../components/Cards/RestaurantCard";
 import { API_URL } from "../utils/constants";
 import Shimmer from "../components/Cards/Shimmer";
@@ -19,14 +18,14 @@ export default Home = () => {
     const restData = json.data.cards.filter(
       (val) =>
         val?.card?.card?.gridElements?.infoWithStyle?.restaurants &&
-        val.card?.card?.id === "top_brands_for_you"
+        val.card?.card?.id === "restaurant_grid_listing"
     );
     console.log(
       "restData",
-      restData[0].card?.card?.gridElements?.infoWithStyle?.restaurants
+      restData[0]?.card?.card?.gridElements?.infoWithStyle?.restaurants
     );
     setRestaurantData(
-      restData[0].card?.card?.gridElements?.infoWithStyle?.restaurants
+      restData[0]?.card?.card?.gridElements?.infoWithStyle?.restaurants
     );
   };
 
@@ -56,7 +55,6 @@ export default Home = () => {
 
   return (
     <>
-      <Header />
       {restaurantData?.length === 0 && <Shimmer />}
       {restaurantData?.length > 0 && (
         <div>

@@ -16,3 +16,12 @@ export const SEARCH_ALL_API_URL =
   "https://www.swiggy.com/dapi/restaurants/search/suggest?lat=28.7040592&lng=77.10249019999999";
 export const SEARCH_RESULT_URL =
   "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_112,h_112,c_fil";
+export const FETCH_MENU_URL =
+  "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.9613691&lng=75.7683995";
+export const CAROUSEL_IMG_URL =
+  "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_628,h_704";
+export const RECOMMENDED_LIST_IMG_URL =
+  "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit";
+export const REST_TYPE = {
+  VEG: "Veg Only",
+};

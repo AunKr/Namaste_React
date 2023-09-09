@@ -1,10 +1,37 @@
-@import url("https://fonts.googleapis.com/css2?family=Bona+Nova&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bona+Nova&family=Merienda:wght@600&family=Open+Sans&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@layer components {
+  .writing-vertical {
+    writing-mode: vertical-lr;
+  }
+  .success-btn {
+    background-color: white;
+  }
+  .success-btn:hover {
+    background-color: white;
+  }
+  .recommended-img {
+    width: 118px;
+    height: 96px;
+  }
+  .min-width-offer {
+    min-width: 250px;
+  }
+  .min-width-menu {
+    min-width: 500px;
+  }
+  .browser-button {
+    left: 43.2%;
+  }
+  .backdrop {
+    background-color: rgba(40, 44, 62, 0.6);
+  }
+}
 
 * {
-  font-family: "Bona Nova";
+  font-family: "Open Sans", sans-serif !important;
   box-sizing: border-box;
 }
 
